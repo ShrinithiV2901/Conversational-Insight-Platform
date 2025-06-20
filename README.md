@@ -1,23 +1,25 @@
 Conversational Insight Platform
+
 The Conversational Insight Platform is a web application built with Streamlit that processes audio and video files to extract actionable insights using state-of-the-art NLP and speech recognition tools.
 
 It supports:
 
-🎙️ Transcription of audio/video
+ Transcription of audio/video
 
-🧠 Topic Modeling
+ Topic Modeling
 
-📈 Sentiment Analysis
+ Sentiment Analysis
 
-📊 Metadata extraction
+ Metadata extraction
 
-🤖 Insight generation
+ Insight generation
 
-❓ Question answering
+ Question answering
 
-🌍 Translation of transcriptions
+ Translation of transcriptions
 
-🚀 Features
+Features
+
 ✅ File Support
 Accepts .mp3, .wav, and .mp4 formats.
 
